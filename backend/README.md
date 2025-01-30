@@ -196,5 +196,3 @@ and comment the line in the file `prestart.sh` that contains:
 ```console
 $ alembic upgrade head
 ```
-
-If you don't want to start with the default models and want to remove them / modify them, from the beginning, without having any previous revision, you can remove the revision files (`.py` Python files) under `./backend/app/alembic/versions/`. And then create a first migration as described above.
