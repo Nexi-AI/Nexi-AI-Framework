@@ -1,8 +1,8 @@
-# Tribe Code of Conduct
+# Nexi Code of Conduct
 
 ## Our Pledge
 
-We, the community of contributors and users of Tribe, pledge to create a welcoming and inclusive environment for everyone. We are committed to fostering a respectful and harassment-free space where diverse ideas and perspectives can thrive.
+We, the community of contributors and users of Nexi, pledge to create a welcoming and inclusive environment for everyone. We are committed to fostering a respectful and harassment-free space where diverse ideas and perspectives can thrive.
 
 ## Expected Behavior
 
@@ -22,7 +22,7 @@ To contribute to a positive and inclusive atmosphere, we expect all participants
 
 ## Unacceptable Behavior
 
-The following behaviors are considered unacceptable and will not be tolerated within the Tribe community:
+The following behaviors are considered unacceptable and will not be tolerated within the Nexi community:
 
 1. Harassment: Any form of harassment, including but not limited to offensive comments, slurs, intimidation, or unwelcome advances, is strictly prohibited.
 
