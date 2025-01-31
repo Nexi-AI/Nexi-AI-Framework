@@ -36,7 +36,7 @@ The following behaviors are considered unacceptable and will not be tolerated wi
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this code of conduct, please report it promptly to the project maintainers by contacting [jerron@wovenblocks.com](jerron@wovenblocks.com).
+If you witness or experience behavior that violates this code of conduct, please report it promptly to the project maintainers by contacting [support@nexiframework.com](support@nexiframework.com).
 All reports will be treated with confidentiality, and the project maintainers will take appropriate action as necessary to address violations. We are committed to providing a safe and welcoming environment for all participants.
 
 ## Enforcement
