@@ -90,4 +90,4 @@ Once the containers are running, you can access various services through the fol
 - **Cannot login to Adminer**: Set 'System' to `PostgreSQL` and set the 'server' field should be `db`. The other fields should follow the values in your `.env` file.
 
 ## Known issues
-- **Password does not match for user "postgres-tribe"**: https://github.com/StreetLamb/tribe/issues/84#issuecomment-2250219701
+- **Password does not match for user "postgres-tribe"**: https://github.com/StreetLamb/tribe/issues/84#issuecomment-2250219701 
