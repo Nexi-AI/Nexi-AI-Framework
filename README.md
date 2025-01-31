@@ -43,7 +43,7 @@
 
 
 > [!WARNING]
-> This project is currently under heavy development. Please be aware that significant changes may occur.
+> This project is currently under heavy development. Please be aware that significant changes may occur. Files are constantly being tested and updated to allow Nexi to be the best it can for users.
 
 ## What is Nexi?
 Have you heard the saying, 'Two minds are better than one'? That's true for agents too. Nexi leverages on the langgraph framework to let you customize and coordinate teams of agents easily. By splitting up tough tasks among agents that are good at different things, each one can focus on what it does best. This makes solving problems faster and better.
