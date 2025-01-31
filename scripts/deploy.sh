@@ -1,6 +1,6 @@
 #! /usr/bin/env sh
 
-# Exit in case of error
+# Exit/Restart Entire Nexi Process in case of error
 set -e
 
 DOMAIN=${DOMAIN?Variable not set} \
