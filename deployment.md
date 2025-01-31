@@ -227,7 +227,7 @@ cd /home/github/actions-runner
 
 ```bash
 ./svc.sh install github
-```
+``` 
 
 * Start the service:
 
