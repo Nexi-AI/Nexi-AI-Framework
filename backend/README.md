@@ -182,7 +182,7 @@ $ alembic revision --autogenerate -m "Add column last_name to User model"
 * After creating the revision, run the migration in the database (this is what will actually change the database):
 
 ```console
-$ alembic upgrade head
+$ alembic upgrade head 
 ```
 
 If you don't want to use migrations at all, uncomment the lines in the file at `./backend/app/core/db.py` that end in:
