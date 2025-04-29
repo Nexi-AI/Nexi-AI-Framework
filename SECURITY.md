@@ -4,7 +4,7 @@ Security is very important for this project and its community. 🔒
 
 Learn more about it below. 👇
 
-## Versions
+## Versions 
 
 The latest version or release is supported.
 
